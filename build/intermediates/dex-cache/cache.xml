@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_24b81a6990b03f620a89b468f357d78bac927caf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_304a398d6518653eab653c26762cb506bcd08189\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="775925fa4ee3b3fcb9c0c64c93e607bca6b19375">
+        <dex dex="C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_52673fb5fbc8a777eb8776d45ae95ae9064c5639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="74569828a1e465364e0eec614eae12c51a93eb81">
+        <dex dex="C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8a3a534f81dbbe428461c553993c63be7d4ffcfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_36904be888cead1e671f42191f3091d35a13d224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sdh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_703beac5678115d83babb5429a8ab68a9eeacf77\classes.dex" />
+    </item>
+
+</items>
