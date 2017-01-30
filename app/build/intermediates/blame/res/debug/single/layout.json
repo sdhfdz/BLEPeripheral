@@ -52,6 +52,10 @@
         "source": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
+        "merged": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
         "merged": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
     },

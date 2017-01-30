@@ -5,29 +5,29 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1024750268813617"
+    timestamp="198685287337468"
     token="-2008040170327113106"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="738" />
+        duration="383" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="175" />
+        duration="28" />
     <task
         name="verifier"
-        duration="19" />
+        duration="5" />
 
     <artifact
         location="C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="1024750268813617"
+        timestamp="198685287337468"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\outputs\apk\app-debug.apk"

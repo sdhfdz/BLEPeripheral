@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml
@@ -24,7 +24,7 @@ ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest
 	android:name
 		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:12:22-71
 application
-ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:14:5-29:19
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:14:5-34:19
 MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:16:5-19
 MERGED from [com.android.support:support-v4:21.0.3] C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
 	android:label
@@ -34,7 +34,7 @@ MERGED from [com.android.support:support-v4:21.0.3] C:\Users\sdh\Desktop\Bishe\B
 	android:icon
 		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:16:9-45
 	android:theme
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:18:9-43
 activity#com.example.bleperipheral.SecondActivity
 ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:label
@@ -52,9 +52,17 @@ ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest
 	android:name
 		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.example.bleperipheral.MainActivity
-ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:28:9-59
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:28:9-50
 	android:name
 		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:28:19-47
+service#com.example.bleperipheral.AdvertisingService
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:30:9-33:47
+	android:enabled
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:31:13-47
 uses-sdk
 INJECTED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:15:5-42
