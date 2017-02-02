@@ -1651,20 +1651,27 @@
                     "startLine": 203,
                     "startColumn": 4,
                     "startOffset": 23197,
-                    "endColumn": 51,
-                    "endOffset": 23244
+                    "endColumn": 44,
+                    "endOffset": 23237
                 },
                 "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 23249,
+                    "startOffset": 23242,
                     "endColumn": 63,
-                    "endOffset": 23308
+                    "endOffset": 23301
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\src\\main\\res\\values\\strings.xml"
@@ -1674,9 +1681,9 @@
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 23313,
+                    "startOffset": 23306,
                     "endColumn": 73,
-                    "endOffset": 23382
+                    "endOffset": 23375
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\src\\main\\res\\values\\strings.xml"
@@ -1686,9 +1693,9 @@
                 "to": {
                     "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 23387,
+                    "startOffset": 23380,
                     "endColumn": 52,
-                    "endOffset": 23435
+                    "endOffset": 23428
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\src\\main\\res\\values\\strings.xml"
@@ -1698,52 +1705,49 @@
                 "to": {
                     "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 23440,
-                    "endLine": 213,
+                    "startOffset": 23433,
+                    "endLine": 209,
                     "endColumn": 12,
-                    "endOffset": 23722
+                    "endOffset": 23507
                 },
                 "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 186,
-                        "endLine": 12,
-                        "endColumn": 12,
-                        "endOffset": 468
-                    }
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 214,
+                    "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 23727,
-                    "endLine": 216,
+                    "startOffset": 23512,
+                    "endLine": 212,
                     "endColumn": 12,
-                    "endOffset": 23882
+                    "endOffset": 23579
                 },
                 "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 506,
-                        "endLine": 17,
-                        "endColumn": 12,
-                        "endOffset": 661
-                    }
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 217,
+                    "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 23887,
+                    "startOffset": 23584,
+                    "endLine": 219,
+                    "endColumn": 12,
+                    "endOffset": 24056
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 24061,
                     "endLine": 223,
                     "endColumn": 12,
-                    "endOffset": 24359
+                    "endOffset": 24278
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1753,10 +1757,10 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 24364,
+                    "startOffset": 24283,
                     "endLine": 227,
                     "endColumn": 12,
-                    "endOffset": 24581
+                    "endOffset": 24500
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1766,10 +1770,10 @@
                 "to": {
                     "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 24586,
-                    "endLine": 231,
+                    "startOffset": 24505,
+                    "endLine": 232,
                     "endColumn": 12,
-                    "endOffset": 24803
+                    "endOffset": 24768
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1777,12 +1781,12 @@
             },
             {
                 "to": {
-                    "startLine": 232,
+                    "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 24808,
+                    "startOffset": 24773,
                     "endLine": 236,
                     "endColumn": 12,
-                    "endOffset": 25071
+                    "endOffset": 24995
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1792,10 +1796,10 @@
                 "to": {
                     "startLine": 237,
                     "startColumn": 4,
-                    "startOffset": 25076,
+                    "startOffset": 25000,
                     "endLine": 240,
                     "endColumn": 12,
-                    "endOffset": 25298
+                    "endOffset": 25225
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1805,10 +1809,10 @@
                 "to": {
                     "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 25303,
+                    "startOffset": 25230,
                     "endLine": 244,
                     "endColumn": 12,
-                    "endOffset": 25528
+                    "endOffset": 25455
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1818,10 +1822,10 @@
                 "to": {
                     "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 25533,
+                    "startOffset": 25460,
                     "endLine": 248,
                     "endColumn": 12,
-                    "endOffset": 25758
+                    "endOffset": 25685
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1831,10 +1835,10 @@
                 "to": {
                     "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 25763,
+                    "startOffset": 25690,
                     "endLine": 252,
                     "endColumn": 12,
-                    "endOffset": 25988
+                    "endOffset": 25915
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1844,10 +1848,10 @@
                 "to": {
                     "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 25993,
+                    "startOffset": 25920,
                     "endLine": 256,
                     "endColumn": 12,
-                    "endOffset": 26218
+                    "endOffset": 26142
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1857,10 +1861,10 @@
                 "to": {
                     "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 26223,
+                    "startOffset": 26147,
                     "endLine": 260,
                     "endColumn": 12,
-                    "endOffset": 26445
+                    "endOffset": 26381
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1870,10 +1874,10 @@
                 "to": {
                     "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 26450,
+                    "startOffset": 26386,
                     "endLine": 264,
                     "endColumn": 12,
-                    "endOffset": 26684
+                    "endOffset": 26607
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1883,10 +1887,10 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 26689,
+                    "startOffset": 26612,
                     "endLine": 268,
                     "endColumn": 12,
-                    "endOffset": 26910
+                    "endOffset": 26852
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1896,34 +1900,34 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 26915,
-                    "endLine": 272,
+                    "startOffset": 26857,
+                    "endColumn": 117,
+                    "endOffset": 26970
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 26975,
+                    "endColumn": 117,
+                    "endOffset": 27088
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 27093,
+                    "endLine": 274,
                     "endColumn": 12,
-                    "endOffset": 27155
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 273,
-                    "startColumn": 4,
-                    "startOffset": 27160,
-                    "endColumn": 117,
-                    "endOffset": 27273
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 274,
-                    "startColumn": 4,
-                    "startOffset": 27278,
-                    "endColumn": 117,
-                    "endOffset": 27391
+                    "endOffset": 27318
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1933,10 +1937,10 @@
                 "to": {
                     "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 27396,
+                    "startOffset": 27323,
                     "endLine": 278,
                     "endColumn": 12,
-                    "endOffset": 27621
+                    "endOffset": 27566
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1946,10 +1950,10 @@
                 "to": {
                     "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 27626,
+                    "startOffset": 27571,
                     "endLine": 282,
                     "endColumn": 12,
-                    "endOffset": 27869
+                    "endOffset": 27785
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1959,10 +1963,10 @@
                 "to": {
                     "startLine": 283,
                     "startColumn": 4,
-                    "startOffset": 27874,
-                    "endLine": 286,
+                    "startOffset": 27790,
+                    "endLine": 287,
                     "endColumn": 12,
-                    "endOffset": 28088
+                    "endOffset": 28068
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1970,12 +1974,12 @@
             },
             {
                 "to": {
-                    "startLine": 287,
+                    "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 28093,
+                    "startOffset": 28073,
                     "endLine": 291,
                     "endColumn": 12,
-                    "endOffset": 28371
+                    "endOffset": 28276
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1985,10 +1989,10 @@
                 "to": {
                     "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 28376,
-                    "endLine": 295,
+                    "startOffset": 28281,
+                    "endLine": 294,
                     "endColumn": 12,
-                    "endOffset": 28579
+                    "endOffset": 28407
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -1996,12 +2000,12 @@
             },
             {
                 "to": {
-                    "startLine": 296,
+                    "startLine": 295,
                     "startColumn": 4,
-                    "startOffset": 28584,
+                    "startOffset": 28412,
                     "endLine": 298,
                     "endColumn": 12,
-                    "endOffset": 28710
+                    "endOffset": 28634
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2011,10 +2015,10 @@
                 "to": {
                     "startLine": 299,
                     "startColumn": 4,
-                    "startOffset": 28715,
+                    "startOffset": 28639,
                     "endLine": 302,
                     "endColumn": 12,
-                    "endOffset": 28937
+                    "endOffset": 28880
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2024,10 +2028,10 @@
                 "to": {
                     "startLine": 303,
                     "startColumn": 4,
-                    "startOffset": 28942,
+                    "startOffset": 28885,
                     "endLine": 306,
                     "endColumn": 12,
-                    "endOffset": 29183
+                    "endOffset": 29105
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2037,10 +2041,10 @@
                 "to": {
                     "startLine": 307,
                     "startColumn": 4,
-                    "startOffset": 29188,
+                    "startOffset": 29110,
                     "endLine": 310,
                     "endColumn": 12,
-                    "endOffset": 29408
+                    "endOffset": 29354
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2050,10 +2054,10 @@
                 "to": {
                     "startLine": 311,
                     "startColumn": 4,
-                    "startOffset": 29413,
+                    "startOffset": 29359,
                     "endLine": 314,
                     "endColumn": 12,
-                    "endOffset": 29657
+                    "endOffset": 29575
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2063,10 +2067,10 @@
                 "to": {
                     "startLine": 315,
                     "startColumn": 4,
-                    "startOffset": 29662,
+                    "startOffset": 29580,
                     "endLine": 318,
                     "endColumn": 12,
-                    "endOffset": 29878
+                    "endOffset": 29820
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2076,10 +2080,10 @@
                 "to": {
                     "startLine": 319,
                     "startColumn": 4,
-                    "startOffset": 29883,
-                    "endLine": 322,
+                    "startOffset": 29825,
+                    "endLine": 323,
                     "endColumn": 12,
-                    "endOffset": 30123
+                    "endOffset": 30115
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2087,12 +2091,12 @@
             },
             {
                 "to": {
-                    "startLine": 323,
+                    "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 30128,
-                    "endLine": 327,
+                    "startOffset": 30120,
+                    "endLine": 326,
                     "endColumn": 12,
-                    "endOffset": 30418
+                    "endOffset": 30337
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2100,12 +2104,12 @@
             },
             {
                 "to": {
-                    "startLine": 328,
+                    "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 30423,
-                    "endLine": 330,
+                    "startOffset": 30342,
+                    "endLine": 329,
                     "endColumn": 12,
-                    "endOffset": 30640
+                    "endOffset": 30575
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2113,12 +2117,12 @@
             },
             {
                 "to": {
-                    "startLine": 331,
+                    "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 30645,
-                    "endLine": 333,
+                    "startOffset": 30580,
+                    "endLine": 332,
                     "endColumn": 12,
-                    "endOffset": 30878
+                    "endOffset": 30789
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2126,12 +2130,12 @@
             },
             {
                 "to": {
-                    "startLine": 334,
+                    "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 30883,
-                    "endLine": 336,
+                    "startOffset": 30794,
+                    "endLine": 335,
                     "endColumn": 12,
-                    "endOffset": 31092
+                    "endOffset": 31019
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2139,12 +2143,12 @@
             },
             {
                 "to": {
-                    "startLine": 337,
+                    "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 31097,
-                    "endLine": 339,
+                    "startOffset": 31024,
+                    "endLine": 338,
                     "endColumn": 12,
-                    "endOffset": 31322
+                    "endOffset": 31242
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2152,12 +2156,12 @@
             },
             {
                 "to": {
-                    "startLine": 340,
+                    "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 31327,
-                    "endLine": 342,
+                    "startOffset": 31247,
+                    "endLine": 341,
                     "endColumn": 12,
-                    "endOffset": 31545
+                    "endOffset": 31457
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2165,12 +2169,24 @@
             },
             {
                 "to": {
-                    "startLine": 343,
+                    "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 31550,
-                    "endLine": 345,
+                    "startOffset": 31462,
+                    "endLine": 344,
                     "endColumn": 12,
-                    "endOffset": 31760
+                    "endOffset": 31665
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 31670,
+                    "endColumn": 111,
+                    "endOffset": 31777
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2180,34 +2196,34 @@
                 "to": {
                     "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 31765,
-                    "endLine": 348,
+                    "startOffset": 31782,
+                    "endColumn": 111,
+                    "endOffset": 31889
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 31894,
+                    "endColumn": 104,
+                    "endOffset": 31994
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 31999,
+                    "endLine": 350,
                     "endColumn": 12,
-                    "endOffset": 31968
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 349,
-                    "startColumn": 4,
-                    "startOffset": 31973,
-                    "endColumn": 111,
-                    "endOffset": 32080
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 350,
-                    "startColumn": 4,
-                    "startOffset": 32085,
-                    "endColumn": 111,
-                    "endOffset": 32192
+                    "endOffset": 32208
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2217,9 +2233,9 @@
                 "to": {
                     "startLine": 351,
                     "startColumn": 4,
-                    "startOffset": 32197,
-                    "endColumn": 104,
-                    "endOffset": 32297
+                    "startOffset": 32213,
+                    "endColumn": 133,
+                    "endOffset": 32342
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2229,34 +2245,9 @@
                 "to": {
                     "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 32302,
-                    "endLine": 354,
-                    "endColumn": 12,
-                    "endOffset": 32511
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 355,
-                    "startColumn": 4,
-                    "startOffset": 32516,
-                    "endColumn": 133,
-                    "endOffset": 32645
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 356,
-                    "startColumn": 4,
-                    "startOffset": 32650,
+                    "startOffset": 32347,
                     "endColumn": 127,
-                    "endOffset": 32773
+                    "endOffset": 32470
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2264,11 +2255,24 @@
             },
             {
                 "to": {
-                    "startLine": 357,
+                    "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 32778,
+                    "startOffset": 32475,
                     "endColumn": 73,
-                    "endOffset": 32847
+                    "endOffset": 32544
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 32549,
+                    "endLine": 357,
+                    "endColumn": 12,
+                    "endOffset": 32797
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2278,22 +2282,9 @@
                 "to": {
                     "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 32852,
-                    "endLine": 361,
-                    "endColumn": 12,
-                    "endOffset": 33100
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 362,
-                    "startColumn": 4,
-                    "startOffset": 33105,
+                    "startOffset": 32802,
                     "endColumn": 87,
-                    "endOffset": 33188
+                    "endOffset": 32885
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2301,12 +2292,12 @@
             },
             {
                 "to": {
-                    "startLine": 363,
+                    "startLine": 359,
                     "startColumn": 4,
-                    "startOffset": 33193,
-                    "endLine": 368,
+                    "startOffset": 32890,
+                    "endLine": 364,
                     "endColumn": 12,
-                    "endOffset": 33590
+                    "endOffset": 33287
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2314,11 +2305,11 @@
             },
             {
                 "to": {
-                    "startLine": 369,
+                    "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 33595,
+                    "startOffset": 33292,
                     "endColumn": 81,
-                    "endOffset": 33672
+                    "endOffset": 33369
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2326,11 +2317,11 @@
             },
             {
                 "to": {
-                    "startLine": 370,
+                    "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 33677,
+                    "startOffset": 33374,
                     "endColumn": 85,
-                    "endOffset": 33758
+                    "endOffset": 33455
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2338,12 +2329,12 @@
             },
             {
                 "to": {
-                    "startLine": 371,
+                    "startLine": 367,
                     "startColumn": 4,
-                    "startOffset": 33763,
-                    "endLine": 380,
+                    "startOffset": 33460,
+                    "endLine": 376,
                     "endColumn": 12,
-                    "endOffset": 34349
+                    "endOffset": 34046
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2351,11 +2342,11 @@
             },
             {
                 "to": {
-                    "startLine": 381,
+                    "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 34354,
+                    "startOffset": 34051,
                     "endColumn": 90,
-                    "endOffset": 34440
+                    "endOffset": 34137
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2363,12 +2354,12 @@
             },
             {
                 "to": {
-                    "startLine": 382,
+                    "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 34445,
-                    "endLine": 387,
+                    "startOffset": 34142,
+                    "endLine": 383,
                     "endColumn": 12,
-                    "endOffset": 34848
+                    "endOffset": 34545
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2376,11 +2367,36 @@
             },
             {
                 "to": {
-                    "startLine": 388,
+                    "startLine": 384,
                     "startColumn": 4,
-                    "startOffset": 34853,
+                    "startOffset": 34550,
                     "endColumn": 93,
-                    "endOffset": 34942
+                    "endOffset": 34639
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 34644,
+                    "endColumn": 57,
+                    "endOffset": 34697
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 34702,
+                    "endLine": 388,
+                    "endColumn": 12,
+                    "endOffset": 34845
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2390,22 +2406,10 @@
                 "to": {
                     "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 34947,
-                    "endColumn": 57,
-                    "endOffset": 35000
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 390,
-                    "startColumn": 4,
-                    "startOffset": 35005,
-                    "endLine": 392,
+                    "startOffset": 34850,
+                    "endLine": 421,
                     "endColumn": 12,
-                    "endOffset": 35148
+                    "endOffset": 37258
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2413,12 +2417,12 @@
             },
             {
                 "to": {
-                    "startLine": 393,
+                    "startLine": 422,
                     "startColumn": 4,
-                    "startOffset": 35153,
-                    "endLine": 425,
+                    "startOffset": 37263,
+                    "endLine": 424,
                     "endColumn": 12,
-                    "endOffset": 37561
+                    "endOffset": 37411
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2426,12 +2430,12 @@
             },
             {
                 "to": {
-                    "startLine": 426,
+                    "startLine": 425,
                     "startColumn": 4,
-                    "startOffset": 37566,
-                    "endLine": 428,
+                    "startOffset": 37416,
+                    "endLine": 456,
                     "endColumn": 12,
-                    "endOffset": 37714
+                    "endOffset": 39958
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2439,12 +2443,12 @@
             },
             {
                 "to": {
-                    "startLine": 429,
+                    "startLine": 457,
                     "startColumn": 4,
-                    "startOffset": 37719,
-                    "endLine": 460,
+                    "startOffset": 39963,
+                    "endLine": 555,
                     "endColumn": 12,
-                    "endOffset": 40261
+                    "endOffset": 46333
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2452,12 +2456,12 @@
             },
             {
                 "to": {
-                    "startLine": 461,
+                    "startLine": 556,
                     "startColumn": 4,
-                    "startOffset": 40266,
-                    "endLine": 559,
+                    "startOffset": 46338,
+                    "endLine": 651,
                     "endColumn": 12,
-                    "endOffset": 46636
+                    "endOffset": 52615
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2465,12 +2469,12 @@
             },
             {
                 "to": {
-                    "startLine": 560,
+                    "startLine": 652,
                     "startColumn": 4,
-                    "startOffset": 46641,
-                    "endLine": 655,
+                    "startOffset": 52620,
+                    "endLine": 750,
                     "endColumn": 12,
-                    "endOffset": 52918
+                    "endOffset": 59086
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2478,12 +2482,12 @@
             },
             {
                 "to": {
-                    "startLine": 656,
+                    "startLine": 751,
                     "startColumn": 4,
-                    "startOffset": 52923,
-                    "endLine": 754,
+                    "startOffset": 59091,
+                    "endLine": 765,
                     "endColumn": 12,
-                    "endOffset": 59389
+                    "endOffset": 60025
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2491,12 +2495,12 @@
             },
             {
                 "to": {
-                    "startLine": 755,
+                    "startLine": 766,
                     "startColumn": 4,
-                    "startOffset": 59394,
-                    "endLine": 769,
+                    "startOffset": 60030,
+                    "endLine": 770,
                     "endColumn": 12,
-                    "endOffset": 60328
+                    "endOffset": 60281
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2504,12 +2508,12 @@
             },
             {
                 "to": {
-                    "startLine": 770,
+                    "startLine": 771,
                     "startColumn": 4,
-                    "startOffset": 60333,
-                    "endLine": 774,
+                    "startOffset": 60286,
+                    "endLine": 775,
                     "endColumn": 12,
-                    "endOffset": 60584
+                    "endOffset": 60517
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2517,12 +2521,12 @@
             },
             {
                 "to": {
-                    "startLine": 775,
+                    "startLine": 776,
                     "startColumn": 4,
-                    "startOffset": 60589,
-                    "endLine": 779,
+                    "startOffset": 60522,
+                    "endLine": 785,
                     "endColumn": 12,
-                    "endOffset": 60820
+                    "endOffset": 61064
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2530,12 +2534,12 @@
             },
             {
                 "to": {
-                    "startLine": 780,
+                    "startLine": 786,
                     "startColumn": 4,
-                    "startOffset": 60825,
-                    "endLine": 789,
+                    "startOffset": 61069,
+                    "endLine": 794,
                     "endColumn": 12,
-                    "endOffset": 61367
+                    "endOffset": 61558
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2543,12 +2547,12 @@
             },
             {
                 "to": {
-                    "startLine": 790,
+                    "startLine": 795,
                     "startColumn": 4,
-                    "startOffset": 61372,
-                    "endLine": 798,
+                    "startOffset": 61563,
+                    "endLine": 805,
                     "endColumn": 12,
-                    "endOffset": 61861
+                    "endOffset": 62231
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2556,12 +2560,12 @@
             },
             {
                 "to": {
-                    "startLine": 799,
+                    "startLine": 806,
                     "startColumn": 4,
-                    "startOffset": 61866,
-                    "endLine": 809,
+                    "startOffset": 62236,
+                    "endLine": 808,
                     "endColumn": 12,
-                    "endOffset": 62534
+                    "endOffset": 62396
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2569,12 +2573,12 @@
             },
             {
                 "to": {
-                    "startLine": 810,
+                    "startLine": 809,
                     "startColumn": 4,
-                    "startOffset": 62539,
-                    "endLine": 812,
+                    "startOffset": 62401,
+                    "endLine": 815,
                     "endColumn": 12,
-                    "endOffset": 62699
+                    "endOffset": 62924
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2582,12 +2586,12 @@
             },
             {
                 "to": {
-                    "startLine": 813,
+                    "startLine": 816,
                     "startColumn": 4,
-                    "startOffset": 62704,
-                    "endLine": 819,
+                    "startOffset": 62929,
+                    "endLine": 823,
                     "endColumn": 12,
-                    "endOffset": 63227
+                    "endOffset": 63488
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2595,12 +2599,12 @@
             },
             {
                 "to": {
-                    "startLine": 820,
+                    "startLine": 824,
                     "startColumn": 4,
-                    "startOffset": 63232,
-                    "endLine": 827,
+                    "startOffset": 63493,
+                    "endLine": 830,
                     "endColumn": 12,
-                    "endOffset": 63791
+                    "endOffset": 63862
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2608,12 +2612,12 @@
             },
             {
                 "to": {
-                    "startLine": 828,
+                    "startLine": 831,
                     "startColumn": 4,
-                    "startOffset": 63796,
-                    "endLine": 834,
+                    "startOffset": 63867,
+                    "endLine": 835,
                     "endColumn": 12,
-                    "endOffset": 64165
+                    "endOffset": 64232
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2621,12 +2625,12 @@
             },
             {
                 "to": {
-                    "startLine": 835,
+                    "startLine": 836,
                     "startColumn": 4,
-                    "startOffset": 64170,
-                    "endLine": 839,
+                    "startOffset": 64237,
+                    "endLine": 842,
                     "endColumn": 12,
-                    "endOffset": 64535
+                    "endOffset": 64723
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2634,12 +2638,12 @@
             },
             {
                 "to": {
-                    "startLine": 840,
+                    "startLine": 843,
                     "startColumn": 4,
-                    "startOffset": 64540,
-                    "endLine": 846,
+                    "startOffset": 64728,
+                    "endLine": 852,
                     "endColumn": 12,
-                    "endOffset": 65026
+                    "endOffset": 65200
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2647,12 +2651,12 @@
             },
             {
                 "to": {
-                    "startLine": 847,
+                    "startLine": 853,
                     "startColumn": 4,
-                    "startOffset": 65031,
-                    "endLine": 856,
+                    "startOffset": 65205,
+                    "endLine": 858,
                     "endColumn": 12,
-                    "endOffset": 65503
+                    "endOffset": 65553
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2660,12 +2664,12 @@
             },
             {
                 "to": {
-                    "startLine": 857,
+                    "startLine": 859,
                     "startColumn": 4,
-                    "startOffset": 65508,
-                    "endLine": 862,
+                    "startOffset": 65558,
+                    "endLine": 863,
                     "endColumn": 12,
-                    "endOffset": 65856
+                    "endOffset": 65880
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2673,12 +2677,12 @@
             },
             {
                 "to": {
-                    "startLine": 863,
+                    "startLine": 864,
                     "startColumn": 4,
-                    "startOffset": 65861,
+                    "startOffset": 65885,
                     "endLine": 867,
                     "endColumn": 12,
-                    "endOffset": 66183
+                    "endOffset": 66186
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2688,10 +2692,10 @@
                 "to": {
                     "startLine": 868,
                     "startColumn": 4,
-                    "startOffset": 66188,
-                    "endLine": 871,
+                    "startOffset": 66191,
+                    "endLine": 872,
                     "endColumn": 12,
-                    "endOffset": 66489
+                    "endOffset": 66448
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2699,24 +2703,36 @@
             },
             {
                 "to": {
-                    "startLine": 872,
+                    "startLine": 873,
                     "startColumn": 4,
-                    "startOffset": 66494,
-                    "endLine": 876,
-                    "endColumn": 12,
-                    "endOffset": 66751
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 877,
-                    "startColumn": 4,
-                    "startOffset": 66756,
+                    "startOffset": 66453,
                     "endColumn": 112,
-                    "endOffset": 66864
+                    "endOffset": 66561
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 874,
+                    "startColumn": 4,
+                    "startOffset": 66566,
+                    "endColumn": 114,
+                    "endOffset": 66676
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 875,
+                    "startColumn": 4,
+                    "startOffset": 66681,
+                    "endLine": 877,
+                    "endColumn": 12,
+                    "endOffset": 66915
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2726,9 +2742,10 @@
                 "to": {
                     "startLine": 878,
                     "startColumn": 4,
-                    "startOffset": 66869,
-                    "endColumn": 114,
-                    "endOffset": 66979
+                    "startOffset": 66920,
+                    "endLine": 880,
+                    "endColumn": 12,
+                    "endOffset": 67126
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2736,12 +2753,12 @@
             },
             {
                 "to": {
-                    "startLine": 879,
+                    "startLine": 881,
                     "startColumn": 4,
-                    "startOffset": 66984,
-                    "endLine": 881,
+                    "startOffset": 67131,
+                    "endLine": 883,
                     "endColumn": 12,
-                    "endOffset": 67218
+                    "endOffset": 67343
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2749,12 +2766,12 @@
             },
             {
                 "to": {
-                    "startLine": 882,
+                    "startLine": 884,
                     "startColumn": 4,
-                    "startOffset": 67223,
-                    "endLine": 884,
+                    "startOffset": 67348,
+                    "endLine": 886,
                     "endColumn": 12,
-                    "endOffset": 67429
+                    "endOffset": 67561
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2762,12 +2779,11 @@
             },
             {
                 "to": {
-                    "startLine": 885,
+                    "startLine": 887,
                     "startColumn": 4,
-                    "startOffset": 67434,
-                    "endLine": 887,
-                    "endColumn": 12,
-                    "endOffset": 67646
+                    "startOffset": 67566,
+                    "endColumn": 106,
+                    "endOffset": 67668
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2777,22 +2793,10 @@
                 "to": {
                     "startLine": 888,
                     "startColumn": 4,
-                    "startOffset": 67651,
-                    "endLine": 890,
+                    "startOffset": 67673,
+                    "endLine": 891,
                     "endColumn": 12,
-                    "endOffset": 67864
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 891,
-                    "startColumn": 4,
-                    "startOffset": 67869,
-                    "endColumn": 106,
-                    "endOffset": 67971
+                    "endOffset": 67861
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2802,10 +2806,10 @@
                 "to": {
                     "startLine": 892,
                     "startColumn": 4,
-                    "startOffset": 67976,
-                    "endLine": 895,
+                    "startOffset": 67866,
+                    "endLine": 898,
                     "endColumn": 12,
-                    "endOffset": 68164
+                    "endOffset": 68316
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2813,12 +2817,12 @@
             },
             {
                 "to": {
-                    "startLine": 896,
+                    "startLine": 899,
                     "startColumn": 4,
-                    "startOffset": 68169,
+                    "startOffset": 68321,
                     "endLine": 902,
                     "endColumn": 12,
-                    "endOffset": 68619
+                    "endOffset": 68556
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2828,10 +2832,10 @@
                 "to": {
                     "startLine": 903,
                     "startColumn": 4,
-                    "startOffset": 68624,
+                    "startOffset": 68561,
                     "endLine": 906,
                     "endColumn": 12,
-                    "endOffset": 68859
+                    "endOffset": 68815
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2841,10 +2845,9 @@
                 "to": {
                     "startLine": 907,
                     "startColumn": 4,
-                    "startOffset": 68864,
-                    "endLine": 910,
-                    "endColumn": 12,
-                    "endOffset": 69118
+                    "startOffset": 68820,
+                    "endColumn": 100,
+                    "endOffset": 68916
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2852,11 +2855,12 @@
             },
             {
                 "to": {
-                    "startLine": 911,
+                    "startLine": 908,
                     "startColumn": 4,
-                    "startOffset": 69123,
-                    "endColumn": 100,
-                    "endOffset": 69219
+                    "startOffset": 68921,
+                    "endLine": 911,
+                    "endColumn": 12,
+                    "endOffset": 69103
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2866,22 +2870,9 @@
                 "to": {
                     "startLine": 912,
                     "startColumn": 4,
-                    "startOffset": 69224,
-                    "endLine": 915,
-                    "endColumn": 12,
-                    "endOffset": 69406
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 916,
-                    "startColumn": 4,
-                    "startOffset": 69411,
+                    "startOffset": 69108,
                     "endColumn": 89,
-                    "endOffset": 69496
+                    "endOffset": 69193
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2889,12 +2880,12 @@
             },
             {
                 "to": {
-                    "startLine": 917,
+                    "startLine": 913,
                     "startColumn": 4,
-                    "startOffset": 69501,
-                    "endLine": 922,
+                    "startOffset": 69198,
+                    "endLine": 918,
                     "endColumn": 12,
-                    "endOffset": 69940
+                    "endOffset": 69637
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2902,11 +2893,11 @@
             },
             {
                 "to": {
-                    "startLine": 923,
+                    "startLine": 919,
                     "startColumn": 4,
-                    "startOffset": 69945,
+                    "startOffset": 69642,
                     "endColumn": 111,
-                    "endOffset": 70052
+                    "endOffset": 69749
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2914,12 +2905,12 @@
             },
             {
                 "to": {
-                    "startLine": 924,
+                    "startLine": 920,
                     "startColumn": 4,
-                    "startOffset": 70057,
-                    "endLine": 934,
+                    "startOffset": 69754,
+                    "endLine": 930,
                     "endColumn": 12,
-                    "endOffset": 70857
+                    "endOffset": 70554
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2927,12 +2918,12 @@
             },
             {
                 "to": {
-                    "startLine": 935,
+                    "startLine": 931,
                     "startColumn": 4,
-                    "startOffset": 70862,
-                    "endLine": 939,
+                    "startOffset": 70559,
+                    "endLine": 935,
                     "endColumn": 12,
-                    "endOffset": 71187
+                    "endOffset": 70884
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2940,12 +2931,12 @@
             },
             {
                 "to": {
-                    "startLine": 940,
+                    "startLine": 936,
                     "startColumn": 4,
-                    "startOffset": 71192,
-                    "endLine": 953,
+                    "startOffset": 70889,
+                    "endLine": 949,
                     "endColumn": 12,
-                    "endOffset": 72106
+                    "endOffset": 71803
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2953,12 +2944,12 @@
             },
             {
                 "to": {
-                    "startLine": 954,
+                    "startLine": 950,
                     "startColumn": 4,
-                    "startOffset": 72111,
-                    "endLine": 963,
+                    "startOffset": 71808,
+                    "endLine": 959,
                     "endColumn": 12,
-                    "endOffset": 72772
+                    "endOffset": 72469
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2966,12 +2957,12 @@
             },
             {
                 "to": {
-                    "startLine": 964,
+                    "startLine": 960,
                     "startColumn": 4,
-                    "startOffset": 72777,
-                    "endLine": 968,
+                    "startOffset": 72474,
+                    "endLine": 964,
                     "endColumn": 12,
-                    "endOffset": 73057
+                    "endOffset": 72754
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2979,12 +2970,12 @@
             },
             {
                 "to": {
-                    "startLine": 969,
+                    "startLine": 965,
                     "startColumn": 4,
-                    "startOffset": 73062,
-                    "endLine": 1009,
+                    "startOffset": 72759,
+                    "endLine": 1005,
                     "endColumn": 12,
-                    "endOffset": 76174
+                    "endOffset": 75871
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -2992,12 +2983,12 @@
             },
             {
                 "to": {
-                    "startLine": 1010,
+                    "startLine": 1006,
                     "startColumn": 4,
-                    "startOffset": 76179,
-                    "endLine": 1050,
+                    "startOffset": 75876,
+                    "endLine": 1046,
                     "endColumn": 12,
-                    "endOffset": 79305
+                    "endOffset": 79002
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3005,12 +2996,12 @@
             },
             {
                 "to": {
-                    "startLine": 1051,
+                    "startLine": 1047,
                     "startColumn": 4,
-                    "startOffset": 79310,
-                    "endLine": 1092,
+                    "startOffset": 79007,
+                    "endLine": 1088,
                     "endColumn": 12,
-                    "endOffset": 82562
+                    "endOffset": 82259
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3018,11 +3009,24 @@
             },
             {
                 "to": {
-                    "startLine": 1093,
+                    "startLine": 1089,
                     "startColumn": 4,
-                    "startOffset": 82567,
+                    "startOffset": 82264,
                     "endColumn": 86,
-                    "endOffset": 82649
+                    "endOffset": 82346
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1090,
+                    "startColumn": 4,
+                    "startOffset": 82351,
+                    "endLine": 1093,
+                    "endColumn": 12,
+                    "endOffset": 82575
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3032,10 +3036,10 @@
                 "to": {
                     "startLine": 1094,
                     "startColumn": 4,
-                    "startOffset": 82654,
+                    "startOffset": 82580,
                     "endLine": 1097,
                     "endColumn": 12,
-                    "endOffset": 82878
+                    "endOffset": 82824
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3045,10 +3049,10 @@
                 "to": {
                     "startLine": 1098,
                     "startColumn": 4,
-                    "startOffset": 82883,
+                    "startOffset": 82829,
                     "endLine": 1101,
                     "endColumn": 12,
-                    "endOffset": 83127
+                    "endOffset": 83065
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3058,10 +3062,10 @@
                 "to": {
                     "startLine": 1102,
                     "startColumn": 4,
-                    "startOffset": 83132,
-                    "endLine": 1105,
+                    "startOffset": 83070,
+                    "endLine": 1104,
                     "endColumn": 12,
-                    "endOffset": 83368
+                    "endOffset": 83217
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3069,12 +3073,12 @@
             },
             {
                 "to": {
-                    "startLine": 1106,
+                    "startLine": 1105,
                     "startColumn": 4,
-                    "startOffset": 83373,
-                    "endLine": 1108,
+                    "startOffset": 83222,
+                    "endLine": 1107,
                     "endColumn": 12,
-                    "endOffset": 83520
+                    "endOffset": 83388
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3082,12 +3086,12 @@
             },
             {
                 "to": {
-                    "startLine": 1109,
+                    "startLine": 1108,
                     "startColumn": 4,
-                    "startOffset": 83525,
-                    "endLine": 1111,
+                    "startOffset": 83393,
+                    "endLine": 1110,
                     "endColumn": 12,
-                    "endOffset": 83691
+                    "endOffset": 83555
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3095,12 +3099,12 @@
             },
             {
                 "to": {
-                    "startLine": 1112,
+                    "startLine": 1111,
                     "startColumn": 4,
-                    "startOffset": 83696,
+                    "startOffset": 83560,
                     "endLine": 1114,
                     "endColumn": 12,
-                    "endOffset": 83858
+                    "endOffset": 83798
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3110,10 +3114,10 @@
                 "to": {
                     "startLine": 1115,
                     "startColumn": 4,
-                    "startOffset": 83863,
-                    "endLine": 1118,
+                    "startOffset": 83803,
+                    "endLine": 1117,
                     "endColumn": 12,
-                    "endOffset": 84101
+                    "endOffset": 83968
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3121,12 +3125,12 @@
             },
             {
                 "to": {
-                    "startLine": 1119,
+                    "startLine": 1118,
                     "startColumn": 4,
-                    "startOffset": 84106,
-                    "endLine": 1121,
+                    "startOffset": 83973,
+                    "endLine": 1120,
                     "endColumn": 12,
-                    "endOffset": 84271
+                    "endOffset": 84141
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3134,12 +3138,12 @@
             },
             {
                 "to": {
-                    "startLine": 1122,
+                    "startLine": 1121,
                     "startColumn": 4,
-                    "startOffset": 84276,
-                    "endLine": 1124,
+                    "startOffset": 84146,
+                    "endLine": 1123,
                     "endColumn": 12,
-                    "endOffset": 84444
+                    "endOffset": 84312
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3147,12 +3151,12 @@
             },
             {
                 "to": {
-                    "startLine": 1125,
+                    "startLine": 1124,
                     "startColumn": 4,
-                    "startOffset": 84449,
+                    "startOffset": 84317,
                     "endLine": 1127,
                     "endColumn": 12,
-                    "endOffset": 84615
+                    "endOffset": 84586
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3162,10 +3166,22 @@
                 "to": {
                     "startLine": 1128,
                     "startColumn": 4,
-                    "startOffset": 84620,
-                    "endLine": 1131,
+                    "startOffset": 84591,
+                    "endLine": 1130,
                     "endColumn": 12,
-                    "endOffset": 84889
+                    "endOffset": 84785
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1131,
+                    "startColumn": 4,
+                    "startOffset": 84790,
+                    "endColumn": 83,
+                    "endOffset": 84869
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3175,10 +3191,33 @@
                 "to": {
                     "startLine": 1132,
                     "startColumn": 4,
-                    "startOffset": 84894,
-                    "endLine": 1134,
-                    "endColumn": 12,
-                    "endOffset": 85088
+                    "startOffset": 84874,
+                    "endColumn": 95,
+                    "endOffset": 84965
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1133,
+                    "startColumn": 4,
+                    "startOffset": 84970,
+                    "endColumn": 95,
+                    "endOffset": 85061
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1134,
+                    "startColumn": 4,
+                    "startOffset": 85066,
+                    "endColumn": 97,
+                    "endOffset": 85159
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3188,9 +3227,9 @@
                 "to": {
                     "startLine": 1135,
                     "startColumn": 4,
-                    "startOffset": 85093,
-                    "endColumn": 83,
-                    "endOffset": 85172
+                    "startOffset": 85164,
+                    "endColumn": 99,
+                    "endOffset": 85259
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3200,9 +3239,9 @@
                 "to": {
                     "startLine": 1136,
                     "startColumn": 4,
-                    "startOffset": 85177,
-                    "endColumn": 95,
-                    "endOffset": 85268
+                    "startOffset": 85264,
+                    "endColumn": 101,
+                    "endOffset": 85361
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3212,9 +3251,9 @@
                 "to": {
                     "startLine": 1137,
                     "startColumn": 4,
-                    "startOffset": 85273,
-                    "endColumn": 95,
-                    "endOffset": 85364
+                    "startOffset": 85366,
+                    "endColumn": 101,
+                    "endOffset": 85463
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3224,9 +3263,9 @@
                 "to": {
                     "startLine": 1138,
                     "startColumn": 4,
-                    "startOffset": 85369,
-                    "endColumn": 97,
-                    "endOffset": 85462
+                    "startOffset": 85468,
+                    "endColumn": 101,
+                    "endOffset": 85565
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3236,9 +3275,9 @@
                 "to": {
                     "startLine": 1139,
                     "startColumn": 4,
-                    "startOffset": 85467,
-                    "endColumn": 99,
-                    "endOffset": 85562
+                    "startOffset": 85570,
+                    "endColumn": 101,
+                    "endOffset": 85667
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3248,9 +3287,9 @@
                 "to": {
                     "startLine": 1140,
                     "startColumn": 4,
-                    "startOffset": 85567,
+                    "startOffset": 85672,
                     "endColumn": 101,
-                    "endOffset": 85664
+                    "endOffset": 85769
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3260,9 +3299,9 @@
                 "to": {
                     "startLine": 1141,
                     "startColumn": 4,
-                    "startOffset": 85669,
-                    "endColumn": 101,
-                    "endOffset": 85766
+                    "startOffset": 85774,
+                    "endColumn": 99,
+                    "endOffset": 85869
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3272,9 +3311,9 @@
                 "to": {
                     "startLine": 1142,
                     "startColumn": 4,
-                    "startOffset": 85771,
-                    "endColumn": 101,
-                    "endOffset": 85868
+                    "startOffset": 85874,
+                    "endColumn": 95,
+                    "endOffset": 85965
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3284,9 +3323,9 @@
                 "to": {
                     "startLine": 1143,
                     "startColumn": 4,
-                    "startOffset": 85873,
-                    "endColumn": 101,
-                    "endOffset": 85970
+                    "startOffset": 85970,
+                    "endColumn": 111,
+                    "endOffset": 86077
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3296,9 +3335,9 @@
                 "to": {
                     "startLine": 1144,
                     "startColumn": 4,
-                    "startOffset": 85975,
-                    "endColumn": 101,
-                    "endOffset": 86072
+                    "startOffset": 86082,
+                    "endColumn": 128,
+                    "endOffset": 86206
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3308,9 +3347,9 @@
                 "to": {
                     "startLine": 1145,
                     "startColumn": 4,
-                    "startOffset": 86077,
-                    "endColumn": 99,
-                    "endOffset": 86172
+                    "startOffset": 86211,
+                    "endColumn": 122,
+                    "endOffset": 86329
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3320,9 +3359,9 @@
                 "to": {
                     "startLine": 1146,
                     "startColumn": 4,
-                    "startOffset": 86177,
-                    "endColumn": 95,
-                    "endOffset": 86268
+                    "startOffset": 86334,
+                    "endColumn": 141,
+                    "endOffset": 86471
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3332,9 +3371,9 @@
                 "to": {
                     "startLine": 1147,
                     "startColumn": 4,
-                    "startOffset": 86273,
-                    "endColumn": 111,
-                    "endOffset": 86380
+                    "startOffset": 86476,
+                    "endColumn": 141,
+                    "endOffset": 86613
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3344,9 +3383,9 @@
                 "to": {
                     "startLine": 1148,
                     "startColumn": 4,
-                    "startOffset": 86385,
-                    "endColumn": 128,
-                    "endOffset": 86509
+                    "startOffset": 86618,
+                    "endColumn": 97,
+                    "endOffset": 86711
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3356,9 +3395,9 @@
                 "to": {
                     "startLine": 1149,
                     "startColumn": 4,
-                    "startOffset": 86514,
-                    "endColumn": 122,
-                    "endOffset": 86632
+                    "startOffset": 86716,
+                    "endColumn": 113,
+                    "endOffset": 86825
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3368,9 +3407,9 @@
                 "to": {
                     "startLine": 1150,
                     "startColumn": 4,
-                    "startOffset": 86637,
-                    "endColumn": 141,
-                    "endOffset": 86774
+                    "startOffset": 86830,
+                    "endColumn": 93,
+                    "endOffset": 86919
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3380,9 +3419,9 @@
                 "to": {
                     "startLine": 1151,
                     "startColumn": 4,
-                    "startOffset": 86779,
-                    "endColumn": 141,
-                    "endOffset": 86916
+                    "startOffset": 86924,
+                    "endColumn": 127,
+                    "endOffset": 87047
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3392,9 +3431,9 @@
                 "to": {
                     "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 86921,
-                    "endColumn": 97,
-                    "endOffset": 87014
+                    "startOffset": 87052,
+                    "endColumn": 121,
+                    "endOffset": 87169
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3404,9 +3443,9 @@
                 "to": {
                     "startLine": 1153,
                     "startColumn": 4,
-                    "startOffset": 87019,
-                    "endColumn": 113,
-                    "endOffset": 87128
+                    "startOffset": 87174,
+                    "endColumn": 95,
+                    "endOffset": 87265
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3416,9 +3455,9 @@
                 "to": {
                     "startLine": 1154,
                     "startColumn": 4,
-                    "startOffset": 87133,
-                    "endColumn": 93,
-                    "endOffset": 87222
+                    "startOffset": 87270,
+                    "endColumn": 111,
+                    "endOffset": 87377
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3428,9 +3467,9 @@
                 "to": {
                     "startLine": 1155,
                     "startColumn": 4,
-                    "startOffset": 87227,
-                    "endColumn": 127,
-                    "endOffset": 87350
+                    "startOffset": 87382,
+                    "endColumn": 99,
+                    "endOffset": 87477
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3440,9 +3479,9 @@
                 "to": {
                     "startLine": 1156,
                     "startColumn": 4,
-                    "startOffset": 87355,
-                    "endColumn": 121,
-                    "endOffset": 87472
+                    "startOffset": 87482,
+                    "endColumn": 115,
+                    "endOffset": 87593
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3452,9 +3491,9 @@
                 "to": {
                     "startLine": 1157,
                     "startColumn": 4,
-                    "startOffset": 87477,
+                    "startOffset": 87598,
                     "endColumn": 95,
-                    "endOffset": 87568
+                    "endOffset": 87689
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3464,9 +3503,9 @@
                 "to": {
                     "startLine": 1158,
                     "startColumn": 4,
-                    "startOffset": 87573,
+                    "startOffset": 87694,
                     "endColumn": 111,
-                    "endOffset": 87680
+                    "endOffset": 87801
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3476,9 +3515,9 @@
                 "to": {
                     "startLine": 1159,
                     "startColumn": 4,
-                    "startOffset": 87685,
-                    "endColumn": 99,
-                    "endOffset": 87780
+                    "startOffset": 87806,
+                    "endColumn": 127,
+                    "endOffset": 87929
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3488,9 +3527,9 @@
                 "to": {
                     "startLine": 1160,
                     "startColumn": 4,
-                    "startOffset": 87785,
-                    "endColumn": 115,
-                    "endOffset": 87896
+                    "startOffset": 87934,
+                    "endColumn": 135,
+                    "endOffset": 88065
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3500,9 +3539,9 @@
                 "to": {
                     "startLine": 1161,
                     "startColumn": 4,
-                    "startOffset": 87901,
-                    "endColumn": 95,
-                    "endOffset": 87992
+                    "startOffset": 88070,
+                    "endColumn": 151,
+                    "endOffset": 88217
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3512,9 +3551,9 @@
                 "to": {
                     "startLine": 1162,
                     "startColumn": 4,
-                    "startOffset": 87997,
-                    "endColumn": 111,
-                    "endOffset": 88104
+                    "startOffset": 88222,
+                    "endColumn": 129,
+                    "endOffset": 88347
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3524,9 +3563,9 @@
                 "to": {
                     "startLine": 1163,
                     "startColumn": 4,
-                    "startOffset": 88109,
-                    "endColumn": 127,
-                    "endOffset": 88232
+                    "startOffset": 88352,
+                    "endColumn": 145,
+                    "endOffset": 88493
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3536,9 +3575,9 @@
                 "to": {
                     "startLine": 1164,
                     "startColumn": 4,
-                    "startOffset": 88237,
-                    "endColumn": 135,
-                    "endOffset": 88368
+                    "startOffset": 88498,
+                    "endColumn": 137,
+                    "endOffset": 88631
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3548,9 +3587,9 @@
                 "to": {
                     "startLine": 1165,
                     "startColumn": 4,
-                    "startOffset": 88373,
-                    "endColumn": 151,
-                    "endOffset": 88520
+                    "startOffset": 88636,
+                    "endColumn": 140,
+                    "endOffset": 88772
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3560,9 +3599,9 @@
                 "to": {
                     "startLine": 1166,
                     "startColumn": 4,
-                    "startOffset": 88525,
-                    "endColumn": 129,
-                    "endOffset": 88650
+                    "startOffset": 88777,
+                    "endColumn": 131,
+                    "endOffset": 88904
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3572,9 +3611,9 @@
                 "to": {
                     "startLine": 1167,
                     "startColumn": 4,
-                    "startOffset": 88655,
-                    "endColumn": 145,
-                    "endOffset": 88796
+                    "startOffset": 88909,
+                    "endColumn": 134,
+                    "endOffset": 89039
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3584,9 +3623,9 @@
                 "to": {
                     "startLine": 1168,
                     "startColumn": 4,
-                    "startOffset": 88801,
-                    "endColumn": 137,
-                    "endOffset": 88934
+                    "startOffset": 89044,
+                    "endColumn": 123,
+                    "endOffset": 89163
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3596,9 +3635,9 @@
                 "to": {
                     "startLine": 1169,
                     "startColumn": 4,
-                    "startOffset": 88939,
-                    "endColumn": 140,
-                    "endOffset": 89075
+                    "startOffset": 89168,
+                    "endColumn": 129,
+                    "endOffset": 89293
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3608,9 +3647,9 @@
                 "to": {
                     "startLine": 1170,
                     "startColumn": 4,
-                    "startOffset": 89080,
-                    "endColumn": 131,
-                    "endOffset": 89207
+                    "startOffset": 89298,
+                    "endColumn": 129,
+                    "endOffset": 89423
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3620,9 +3659,9 @@
                 "to": {
                     "startLine": 1171,
                     "startColumn": 4,
-                    "startOffset": 89212,
-                    "endColumn": 134,
-                    "endOffset": 89342
+                    "startOffset": 89428,
+                    "endColumn": 111,
+                    "endOffset": 89535
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3632,9 +3671,9 @@
                 "to": {
                     "startLine": 1172,
                     "startColumn": 4,
-                    "startOffset": 89347,
-                    "endColumn": 123,
-                    "endOffset": 89466
+                    "startOffset": 89540,
+                    "endColumn": 133,
+                    "endOffset": 89669
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3644,9 +3683,9 @@
                 "to": {
                     "startLine": 1173,
                     "startColumn": 4,
-                    "startOffset": 89471,
-                    "endColumn": 129,
-                    "endOffset": 89596
+                    "startOffset": 89674,
+                    "endColumn": 131,
+                    "endOffset": 89801
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3656,9 +3695,9 @@
                 "to": {
                     "startLine": 1174,
                     "startColumn": 4,
-                    "startOffset": 89601,
-                    "endColumn": 129,
-                    "endOffset": 89726
+                    "startOffset": 89806,
+                    "endColumn": 125,
+                    "endOffset": 89927
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3668,9 +3707,9 @@
                 "to": {
                     "startLine": 1175,
                     "startColumn": 4,
-                    "startOffset": 89731,
-                    "endColumn": 111,
-                    "endOffset": 89838
+                    "startOffset": 89932,
+                    "endColumn": 65,
+                    "endOffset": 89993
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3680,9 +3719,9 @@
                 "to": {
                     "startLine": 1176,
                     "startColumn": 4,
-                    "startOffset": 89843,
-                    "endColumn": 133,
-                    "endOffset": 89972
+                    "startOffset": 89998,
+                    "endColumn": 89,
+                    "endOffset": 90083
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3692,9 +3731,9 @@
                 "to": {
                     "startLine": 1177,
                     "startColumn": 4,
-                    "startOffset": 89977,
-                    "endColumn": 131,
-                    "endOffset": 90104
+                    "startOffset": 90088,
+                    "endColumn": 79,
+                    "endOffset": 90163
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3704,9 +3743,9 @@
                 "to": {
                     "startLine": 1178,
                     "startColumn": 4,
-                    "startOffset": 90109,
-                    "endColumn": 125,
-                    "endOffset": 90230
+                    "startOffset": 90168,
+                    "endColumn": 97,
+                    "endOffset": 90261
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3716,9 +3755,9 @@
                 "to": {
                     "startLine": 1179,
                     "startColumn": 4,
-                    "startOffset": 90235,
-                    "endColumn": 65,
-                    "endOffset": 90296
+                    "startOffset": 90266,
+                    "endColumn": 77,
+                    "endOffset": 90339
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3728,9 +3767,9 @@
                 "to": {
                     "startLine": 1180,
                     "startColumn": 4,
-                    "startOffset": 90301,
-                    "endColumn": 89,
-                    "endOffset": 90386
+                    "startOffset": 90344,
+                    "endColumn": 105,
+                    "endOffset": 90445
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3740,9 +3779,9 @@
                 "to": {
                     "startLine": 1181,
                     "startColumn": 4,
-                    "startOffset": 90391,
-                    "endColumn": 79,
-                    "endOffset": 90466
+                    "startOffset": 90450,
+                    "endColumn": 91,
+                    "endOffset": 90537
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3752,9 +3791,9 @@
                 "to": {
                     "startLine": 1182,
                     "startColumn": 4,
-                    "startOffset": 90471,
-                    "endColumn": 97,
-                    "endOffset": 90564
+                    "startOffset": 90542,
+                    "endColumn": 109,
+                    "endOffset": 90647
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3764,45 +3803,10 @@
                 "to": {
                     "startLine": 1183,
                     "startColumn": 4,
-                    "startOffset": 90569,
-                    "endColumn": 77,
-                    "endOffset": 90642
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1184,
-                    "startColumn": 4,
-                    "startOffset": 90647,
-                    "endColumn": 105,
-                    "endOffset": 90748
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1185,
-                    "startColumn": 4,
-                    "startOffset": 90753,
-                    "endColumn": 91,
-                    "endOffset": 90840
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1186,
-                    "startColumn": 4,
-                    "startOffset": 90845,
-                    "endColumn": 109,
-                    "endOffset": 90950
+                    "startOffset": 90652,
+                    "endLine": 1186,
+                    "endColumn": 12,
+                    "endOffset": 90818
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3812,10 +3816,10 @@
                 "to": {
                     "startLine": 1187,
                     "startColumn": 4,
-                    "startOffset": 90955,
+                    "startOffset": 90823,
                     "endLine": 1190,
                     "endColumn": 12,
-                    "endOffset": 91121
+                    "endOffset": 90983
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3825,10 +3829,45 @@
                 "to": {
                     "startLine": 1191,
                     "startColumn": 4,
-                    "startOffset": 91126,
-                    "endLine": 1194,
-                    "endColumn": 12,
-                    "endOffset": 91286
+                    "startOffset": 90988,
+                    "endColumn": 79,
+                    "endOffset": 91063
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1192,
+                    "startColumn": 4,
+                    "startOffset": 91068,
+                    "endColumn": 99,
+                    "endOffset": 91163
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1193,
+                    "startColumn": 4,
+                    "startOffset": 91168,
+                    "endColumn": 89,
+                    "endOffset": 91253
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1194,
+                    "startColumn": 4,
+                    "startOffset": 91258,
+                    "endColumn": 109,
+                    "endOffset": 91363
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3838,9 +3877,9 @@
                 "to": {
                     "startLine": 1195,
                     "startColumn": 4,
-                    "startOffset": 91291,
-                    "endColumn": 79,
-                    "endOffset": 91366
+                    "startOffset": 91368,
+                    "endColumn": 91,
+                    "endOffset": 91455
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3850,78 +3889,70 @@
                 "to": {
                     "startLine": 1196,
                     "startColumn": 4,
-                    "startOffset": 91371,
-                    "endColumn": 99,
-                    "endOffset": 91466
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1197,
-                    "startColumn": 4,
-                    "startOffset": 91471,
-                    "endColumn": 89,
-                    "endOffset": 91556
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1198,
-                    "startColumn": 4,
-                    "startOffset": 91561,
-                    "endColumn": 109,
-                    "endOffset": 91666
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1199,
-                    "startColumn": 4,
-                    "startOffset": 91671,
-                    "endColumn": 91,
-                    "endOffset": 91758
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1200,
-                    "startColumn": 4,
-                    "startOffset": 91763,
-                    "endLine": 1207,
+                    "startOffset": 91460,
+                    "endLine": 1203,
                     "endColumn": 12,
-                    "endOffset": 92248
+                    "endOffset": 91945
                 },
                 "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 667,
-                        "endLine": 26,
-                        "endColumn": 12,
-                        "endOffset": 1152
-                    }
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1204,
+                    "startColumn": 4,
+                    "startOffset": 91950,
+                    "endColumn": 87,
+                    "endOffset": 92033
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1205,
+                    "startColumn": 4,
+                    "startOffset": 92038,
+                    "endColumn": 99,
+                    "endOffset": 92133
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1206,
+                    "startColumn": 4,
+                    "startOffset": 92138,
+                    "endColumn": 101,
+                    "endOffset": 92235
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1207,
+                    "startColumn": 4,
+                    "startOffset": 92240,
+                    "endColumn": 103,
+                    "endOffset": 92339
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1208,
                     "startColumn": 4,
-                    "startOffset": 92253,
-                    "endColumn": 87,
-                    "endOffset": 92336
+                    "startOffset": 92344,
+                    "endColumn": 103,
+                    "endOffset": 92443
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3931,9 +3962,9 @@
                 "to": {
                     "startLine": 1209,
                     "startColumn": 4,
-                    "startOffset": 92341,
-                    "endColumn": 99,
-                    "endOffset": 92436
+                    "startOffset": 92448,
+                    "endColumn": 93,
+                    "endOffset": 92537
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3943,9 +3974,9 @@
                 "to": {
                     "startLine": 1210,
                     "startColumn": 4,
-                    "startOffset": 92441,
-                    "endColumn": 101,
-                    "endOffset": 92538
+                    "startOffset": 92542,
+                    "endColumn": 119,
+                    "endOffset": 92657
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3955,9 +3986,9 @@
                 "to": {
                     "startLine": 1211,
                     "startColumn": 4,
-                    "startOffset": 92543,
-                    "endColumn": 103,
-                    "endOffset": 92642
+                    "startOffset": 92662,
+                    "endColumn": 117,
+                    "endOffset": 92775
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3967,9 +3998,9 @@
                 "to": {
                     "startLine": 1212,
                     "startColumn": 4,
-                    "startOffset": 92647,
-                    "endColumn": 103,
-                    "endOffset": 92746
+                    "startOffset": 92780,
+                    "endColumn": 89,
+                    "endOffset": 92865
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3979,9 +4010,9 @@
                 "to": {
                     "startLine": 1213,
                     "startColumn": 4,
-                    "startOffset": 92751,
-                    "endColumn": 93,
-                    "endOffset": 92840
+                    "startOffset": 92870,
+                    "endColumn": 107,
+                    "endOffset": 92973
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -3991,9 +4022,9 @@
                 "to": {
                     "startLine": 1214,
                     "startColumn": 4,
-                    "startOffset": 92845,
-                    "endColumn": 119,
-                    "endOffset": 92960
+                    "startOffset": 92978,
+                    "endColumn": 109,
+                    "endOffset": 93083
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4003,9 +4034,9 @@
                 "to": {
                     "startLine": 1215,
                     "startColumn": 4,
-                    "startOffset": 92965,
-                    "endColumn": 117,
-                    "endOffset": 93078
+                    "startOffset": 93088,
+                    "endColumn": 111,
+                    "endOffset": 93195
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4015,33 +4046,10 @@
                 "to": {
                     "startLine": 1216,
                     "startColumn": 4,
-                    "startOffset": 93083,
-                    "endColumn": 89,
-                    "endOffset": 93168
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1217,
-                    "startColumn": 4,
-                    "startOffset": 93173,
-                    "endColumn": 107,
-                    "endOffset": 93276
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1218,
-                    "startColumn": 4,
-                    "startOffset": 93281,
-                    "endColumn": 109,
-                    "endOffset": 93386
+                    "startOffset": 93200,
+                    "endLine": 1218,
+                    "endColumn": 12,
+                    "endOffset": 93370
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4051,9 +4059,9 @@
                 "to": {
                     "startLine": 1219,
                     "startColumn": 4,
-                    "startOffset": 93391,
-                    "endColumn": 111,
-                    "endOffset": 93498
+                    "startOffset": 93375,
+                    "endColumn": 115,
+                    "endOffset": 93486
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4063,10 +4071,33 @@
                 "to": {
                     "startLine": 1220,
                     "startColumn": 4,
-                    "startOffset": 93503,
-                    "endLine": 1222,
-                    "endColumn": 12,
-                    "endOffset": 93673
+                    "startOffset": 93491,
+                    "endColumn": 85,
+                    "endOffset": 93572
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1221,
+                    "startColumn": 4,
+                    "startOffset": 93577,
+                    "endColumn": 99,
+                    "endOffset": 93672
+                },
+                "from": {
+                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1222,
+                    "startColumn": 4,
+                    "startOffset": 93677,
+                    "endColumn": 111,
+                    "endOffset": 93784
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4076,9 +4107,9 @@
                 "to": {
                     "startLine": 1223,
                     "startColumn": 4,
-                    "startOffset": 93678,
-                    "endColumn": 115,
-                    "endOffset": 93789
+                    "startOffset": 93789,
+                    "endColumn": 66,
+                    "endOffset": 93851
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4088,9 +4119,9 @@
                 "to": {
                     "startLine": 1224,
                     "startColumn": 4,
-                    "startOffset": 93794,
-                    "endColumn": 85,
-                    "endOffset": 93875
+                    "startOffset": 93856,
+                    "endColumn": 113,
+                    "endOffset": 93965
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4100,9 +4131,9 @@
                 "to": {
                     "startLine": 1225,
                     "startColumn": 4,
-                    "startOffset": 93880,
-                    "endColumn": 99,
-                    "endOffset": 93975
+                    "startOffset": 93970,
+                    "endColumn": 67,
+                    "endOffset": 94033
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4112,9 +4143,9 @@
                 "to": {
                     "startLine": 1226,
                     "startColumn": 4,
-                    "startOffset": 93980,
-                    "endColumn": 111,
-                    "endOffset": 94087
+                    "startOffset": 94038,
+                    "endColumn": 115,
+                    "endOffset": 94149
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4124,9 +4155,9 @@
                 "to": {
                     "startLine": 1227,
                     "startColumn": 4,
-                    "startOffset": 94092,
-                    "endColumn": 66,
-                    "endOffset": 94154
+                    "startOffset": 94154,
+                    "endColumn": 131,
+                    "endOffset": 94281
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4136,9 +4167,9 @@
                 "to": {
                     "startLine": 1228,
                     "startColumn": 4,
-                    "startOffset": 94159,
-                    "endColumn": 113,
-                    "endOffset": 94268
+                    "startOffset": 94286,
+                    "endColumn": 115,
+                    "endOffset": 94397
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4148,9 +4179,9 @@
                 "to": {
                     "startLine": 1229,
                     "startColumn": 4,
-                    "startOffset": 94273,
-                    "endColumn": 67,
-                    "endOffset": 94336
+                    "startOffset": 94402,
+                    "endColumn": 68,
+                    "endOffset": 94466
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4160,9 +4191,9 @@
                 "to": {
                     "startLine": 1230,
                     "startColumn": 4,
-                    "startOffset": 94341,
-                    "endColumn": 115,
-                    "endOffset": 94452
+                    "startOffset": 94471,
+                    "endColumn": 94,
+                    "endOffset": 94561
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4172,9 +4203,9 @@
                 "to": {
                     "startLine": 1231,
                     "startColumn": 4,
-                    "startOffset": 94457,
-                    "endColumn": 131,
-                    "endOffset": 94584
+                    "startOffset": 94566,
+                    "endColumn": 114,
+                    "endOffset": 94676
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4184,9 +4215,9 @@
                 "to": {
                     "startLine": 1232,
                     "startColumn": 4,
-                    "startOffset": 94589,
-                    "endColumn": 115,
-                    "endOffset": 94700
+                    "startOffset": 94681,
+                    "endColumn": 112,
+                    "endOffset": 94789
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4196,9 +4227,9 @@
                 "to": {
                     "startLine": 1233,
                     "startColumn": 4,
-                    "startOffset": 94705,
-                    "endColumn": 68,
-                    "endOffset": 94769
+                    "startOffset": 94794,
+                    "endColumn": 98,
+                    "endOffset": 94888
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4208,9 +4239,9 @@
                 "to": {
                     "startLine": 1234,
                     "startColumn": 4,
-                    "startOffset": 94774,
-                    "endColumn": 94,
-                    "endOffset": 94864
+                    "startOffset": 94893,
+                    "endColumn": 119,
+                    "endOffset": 95008
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4220,9 +4251,9 @@
                 "to": {
                     "startLine": 1235,
                     "startColumn": 4,
-                    "startOffset": 94869,
-                    "endColumn": 114,
-                    "endOffset": 94979
+                    "startOffset": 95013,
+                    "endColumn": 121,
+                    "endOffset": 95130
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4232,9 +4263,9 @@
                 "to": {
                     "startLine": 1236,
                     "startColumn": 4,
-                    "startOffset": 94984,
-                    "endColumn": 112,
-                    "endOffset": 95092
+                    "startOffset": 95135,
+                    "endColumn": 110,
+                    "endOffset": 95241
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4244,9 +4275,9 @@
                 "to": {
                     "startLine": 1237,
                     "startColumn": 4,
-                    "startOffset": 95097,
-                    "endColumn": 98,
-                    "endOffset": 95191
+                    "startOffset": 95246,
+                    "endColumn": 100,
+                    "endOffset": 95342
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4256,9 +4287,9 @@
                 "to": {
                     "startLine": 1238,
                     "startColumn": 4,
-                    "startOffset": 95196,
-                    "endColumn": 119,
-                    "endOffset": 95311
+                    "startOffset": 95347,
+                    "endColumn": 104,
+                    "endOffset": 95447
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4268,9 +4299,9 @@
                 "to": {
                     "startLine": 1239,
                     "startColumn": 4,
-                    "startOffset": 95316,
-                    "endColumn": 121,
-                    "endOffset": 95433
+                    "startOffset": 95452,
+                    "endColumn": 99,
+                    "endOffset": 95547
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4280,9 +4311,9 @@
                 "to": {
                     "startLine": 1240,
                     "startColumn": 4,
-                    "startOffset": 95438,
-                    "endColumn": 110,
-                    "endOffset": 95544
+                    "startOffset": 95552,
+                    "endColumn": 117,
+                    "endOffset": 95665
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4292,9 +4323,9 @@
                 "to": {
                     "startLine": 1241,
                     "startColumn": 4,
-                    "startOffset": 95549,
-                    "endColumn": 100,
-                    "endOffset": 95645
+                    "startOffset": 95670,
+                    "endColumn": 90,
+                    "endOffset": 95756
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4304,9 +4335,9 @@
                 "to": {
                     "startLine": 1242,
                     "startColumn": 4,
-                    "startOffset": 95650,
-                    "endColumn": 104,
-                    "endOffset": 95750
+                    "startOffset": 95761,
+                    "endColumn": 122,
+                    "endOffset": 95879
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4316,9 +4347,9 @@
                 "to": {
                     "startLine": 1243,
                     "startColumn": 4,
-                    "startOffset": 95755,
+                    "startOffset": 95884,
                     "endColumn": 99,
-                    "endOffset": 95850
+                    "endOffset": 95979
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4328,9 +4359,9 @@
                 "to": {
                     "startLine": 1244,
                     "startColumn": 4,
-                    "startOffset": 95855,
-                    "endColumn": 117,
-                    "endOffset": 95968
+                    "startOffset": 95984,
+                    "endColumn": 103,
+                    "endOffset": 96083
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4340,9 +4371,9 @@
                 "to": {
                     "startLine": 1245,
                     "startColumn": 4,
-                    "startOffset": 95973,
-                    "endColumn": 90,
-                    "endOffset": 96059
+                    "startOffset": 96088,
+                    "endColumn": 95,
+                    "endOffset": 96179
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4352,9 +4383,9 @@
                 "to": {
                     "startLine": 1246,
                     "startColumn": 4,
-                    "startOffset": 96064,
-                    "endColumn": 122,
-                    "endOffset": 96182
+                    "startOffset": 96184,
+                    "endColumn": 87,
+                    "endOffset": 96267
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4364,9 +4395,9 @@
                 "to": {
                     "startLine": 1247,
                     "startColumn": 4,
-                    "startOffset": 96187,
-                    "endColumn": 99,
-                    "endOffset": 96282
+                    "startOffset": 96272,
+                    "endColumn": 105,
+                    "endOffset": 96373
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4376,9 +4407,9 @@
                 "to": {
                     "startLine": 1248,
                     "startColumn": 4,
-                    "startOffset": 96287,
-                    "endColumn": 103,
-                    "endOffset": 96386
+                    "startOffset": 96378,
+                    "endColumn": 91,
+                    "endOffset": 96465
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4388,9 +4419,9 @@
                 "to": {
                     "startLine": 1249,
                     "startColumn": 4,
-                    "startOffset": 96391,
-                    "endColumn": 95,
-                    "endOffset": 96482
+                    "startOffset": 96470,
+                    "endColumn": 91,
+                    "endOffset": 96557
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4400,9 +4431,9 @@
                 "to": {
                     "startLine": 1250,
                     "startColumn": 4,
-                    "startOffset": 96487,
-                    "endColumn": 87,
-                    "endOffset": 96570
+                    "startOffset": 96562,
+                    "endColumn": 113,
+                    "endOffset": 96671
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4412,9 +4443,9 @@
                 "to": {
                     "startLine": 1251,
                     "startColumn": 4,
-                    "startOffset": 96575,
-                    "endColumn": 105,
-                    "endOffset": 96676
+                    "startOffset": 96676,
+                    "endColumn": 89,
+                    "endOffset": 96761
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4424,9 +4455,9 @@
                 "to": {
                     "startLine": 1252,
                     "startColumn": 4,
-                    "startOffset": 96681,
-                    "endColumn": 91,
-                    "endOffset": 96768
+                    "startOffset": 96766,
+                    "endColumn": 83,
+                    "endOffset": 96845
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4436,9 +4467,9 @@
                 "to": {
                     "startLine": 1253,
                     "startColumn": 4,
-                    "startOffset": 96773,
-                    "endColumn": 91,
-                    "endOffset": 96860
+                    "startOffset": 96850,
+                    "endColumn": 53,
+                    "endOffset": 96899
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4448,9 +4479,9 @@
                 "to": {
                     "startLine": 1254,
                     "startColumn": 4,
-                    "startOffset": 96865,
-                    "endColumn": 113,
-                    "endOffset": 96974
+                    "startOffset": 96904,
+                    "endColumn": 121,
+                    "endOffset": 97021
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4460,9 +4491,9 @@
                 "to": {
                     "startLine": 1255,
                     "startColumn": 4,
-                    "startOffset": 96979,
-                    "endColumn": 89,
-                    "endOffset": 97064
+                    "startOffset": 97026,
+                    "endColumn": 83,
+                    "endOffset": 97105
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
@@ -4472,57 +4503,9 @@
                 "to": {
                     "startLine": 1256,
                     "startColumn": 4,
-                    "startOffset": 97069,
-                    "endColumn": 83,
-                    "endOffset": 97148
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1257,
-                    "startColumn": 4,
-                    "startOffset": 97153,
-                    "endColumn": 53,
-                    "endOffset": 97202
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1258,
-                    "startColumn": 4,
-                    "startOffset": 97207,
-                    "endColumn": 121,
-                    "endOffset": 97324
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1259,
-                    "startColumn": 4,
-                    "startOffset": 97329,
-                    "endColumn": 83,
-                    "endOffset": 97408
-                },
-                "from": {
-                    "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1260,
-                    "startColumn": 4,
-                    "startOffset": 97413,
+                    "startOffset": 97110,
                     "endColumn": 119,
-                    "endOffset": 97528
+                    "endOffset": 97225
                 },
                 "from": {
                     "file": "C:\\Users\\sdh\\Desktop\\Bishe\\BLEPeripheral\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"

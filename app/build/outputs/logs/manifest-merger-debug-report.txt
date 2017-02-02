@@ -32,7 +32,7 @@ MERGED from [com.android.support:support-v4:21.0.3] C:\Users\sdh\Desktop\Bishe\B
 	android:allowBackup
 		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:15:9-35
 	android:icon
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:16:9-45
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:16:9-38
 	android:theme
 		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:18:9-43
 activity#com.example.bleperipheral.SecondActivity

@@ -201,19 +201,15 @@
     <string name="advertise_failed_feature_unsupported">This feature is not supported on this platform</string>
     <string name="advertise_failed_internal_error">Operation failed due to an internal error</string>
     <string name="advertise_failed_too_many_advertises">Failed to start advertising because no advertising instance is available.</string>
-    <string name="app_name">BLE Peripheral</string>
+    <string name="app_name">BLE(儿童)</string>
     <string name="ble_not_supported">ble_not_supported</string>
     <string name="bluetooth_not_supported">Bluetooth not support</string>
     <string name="hello_world">Hello world!</string>
     <style name="AppBaseTheme" parent="Theme.AppCompat">
-        <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
+        
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        
     </style>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance">
         <item name="android:textColor">?android:textColorPrimary</item>
