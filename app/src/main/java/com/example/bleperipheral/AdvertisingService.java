@@ -10,12 +10,14 @@ import android.bluetooth.BluetoothGattServer;
 import android.bluetooth.BluetoothGattServerCallback;
 import android.bluetooth.BluetoothGattService;
 import android.bluetooth.BluetoothManager;
+import android.bluetooth.BluetoothProfile;
 import android.bluetooth.le.AdvertiseCallback;
 import android.bluetooth.le.AdvertiseData;
 import android.bluetooth.le.AdvertiseSettings;
 import android.bluetooth.le.BluetoothLeAdvertiser;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.IBinder;
@@ -40,10 +42,14 @@ public class AdvertisingService extends Service {
     private BluetoothAdapter mBluetoothAdapter;
     private BluetoothLeAdvertiser mBluetoothLeAdvertiser;
     private Handler mHandler;
+    private MediaPlayer mp;
+    private int mConnectionState = BluetoothProfile.STATE_DISCONNECTED;
 
     @Override
     public void onCreate() {
         super.onCreate();
+        mp=MediaPlayer.create(AdvertisingService.this,R.raw.alarm);
+        mp.setLooping(true);
         mHandler=new Handler(Looper.getMainLooper()){
             @Override
             public void handleMessage(Message msg) {
@@ -93,14 +99,24 @@ public class AdvertisingService extends Service {
                     public void onConnectionStateChange(BluetoothDevice device,
                                                         int status, int newState) {
                         super.onConnectionStateChange(device, status, newState);
-//                        runOnUiThread(new Runnable() {
-//                            @Override
-//                            public void run() {
-//                                Toast.makeText(SecondActivity.this,"连接状态变化",Toast.LENGTH_LONG).show();
-//
-//                            }
-//                        });
-                        Log.d("Chris", "onConnectionStateChange:" + device + "-=-=-=-=" + status + "-=-=-=-" + newState);
+                       if (mConnectionState== BluetoothProfile.STATE_CONNECTED )
+                       {
+                           startAlarm();
+                           Log.d("Chris", "onConnectionStateChange:" + device + "-=-=-=-=" + status + "-=-=-=-" + newState);
+
+
+                       }
+                        if (newState==BluetoothProfile.STATE_CONNECTED)
+                        {
+                            mConnectionState=BluetoothProfile.STATE_CONNECTED;
+                            if (mp!=null && mp.isPlaying())
+                            {
+                                mp.pause();
+
+                            }
+                        }
+
+
                     }
 
                     @Override
@@ -162,6 +178,22 @@ public class AdvertisingService extends Service {
                 });
 
         server.addService(service);
+    }
+
+    private void startAlarm() {
+        if (!mp.isPlaying()){
+            try {
+
+//            mp.prepare();
+                mp.seekTo(0);
+                mp.start();
+                System.out.println("播放开始！");
+            } catch (Exception e) {
+                e.printStackTrace();
+                System.out.println(e.getMessage()+">>>>>>>>>>>>>><"+e.getCause());
+            }
+
+        }
     }
 
     private AdvertiseCallback mAdvertiseCallback = new AdvertiseCallback() {
@@ -309,5 +341,9 @@ public class AdvertisingService extends Service {
         super.onDestroy();
         Log.e(TAG, "destroy执行了");
         stopAdvertise();
+        if (mp.isPlaying()){
+            mp.stop();
+            mp.release();
+        }
     }
 }

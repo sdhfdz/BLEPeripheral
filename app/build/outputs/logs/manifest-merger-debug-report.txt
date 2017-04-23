@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:2:1-36:12
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:2:1-37:12
 	package
 		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml
@@ -23,46 +23,54 @@ uses-permission#android.permission.BLUETOOTH_ADMIN
 ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:12:5-74
 	android:name
 		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:14:22-70
 application
-ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:14:5-34:19
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:15:5-35:19
 MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:16:5-19
 MERGED from [com.android.support:support-v4:21.0.3] C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
 	android:label
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:18:9-41
 	android:allowBackup
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:16:9-35
 	android:icon
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:16:9-38
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:17:9-38
 	android:theme
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:18:9-43
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:19:9-43
 activity#com.example.bleperipheral.SecondActivity
-ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:19:9-27:20
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:20:9-28:20
 	android:label
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:21:13-45
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:22:13-45
 	android:name
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:20:13-43
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:21:13-43
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:26:27-74
 activity#com.example.bleperipheral.MainActivity
-ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:28:9-50
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:29:9-50
 	android:name
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:28:19-47
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:29:19-47
 service#com.example.bleperipheral.AdvertisingService
-ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:30:9-33:47
+ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:31:9-34:47
 	android:enabled
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:32:13-35
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:33:13-35
 	android:exported
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:33:13-36
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:34:13-36
 	android:name
-		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:31:13-47
+		ADDED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml:32:13-47
 uses-sdk
 INJECTED from C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\sdh\Desktop\Bishe\BLEPeripheral\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:15:5-42
